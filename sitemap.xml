@@ -10,6 +10,9 @@
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/about.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/aio.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/anatomy-of-nifti.html</loc>
   </url>
   <url>
@@ -28,6 +31,9 @@
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/guide.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/images.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/index.html</loc>
   </url>
   <url>
@@ -38,6 +44,9 @@
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/about.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/aio.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/anatomy-of-nifti.html</loc>
@@ -58,7 +67,16 @@
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/guide.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/open-mri-datasets.html</loc>
@@ -74,6 +92,12 @@
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/key-points.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/SDC-BIDS-IntroMRI/open-mri-datasets.html</loc>
